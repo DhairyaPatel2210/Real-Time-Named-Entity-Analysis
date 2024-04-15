@@ -1,4 +1,13 @@
-# Readme
+# Results in Kibana
+At 15 Mins:
+![alt text](https://github.com/DhairyaPatel2210/Real-Time-Named-Entity-Analysis/blob/main/Results/15Min.png)
+
+At 30 Mins:
+![alt text](https://github.com/DhairyaPatel2210/Real-Time-Named-Entity-Analysis/blob/main/Results/30Min.png)
+
+At 45 Mins:
+![alt text](https://github.com/DhairyaPatel2210/Real-Time-Named-Entity-Analysis/blob/main/Results/45Min.png)
+# Getting Started
 
 Make sure you have installed kafka and java on your system and then open terminal and go into the directory where you have installed your kafka and then follow these commands:
 
